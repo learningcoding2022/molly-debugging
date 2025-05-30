@@ -5,6 +5,7 @@ main {
   align-items: center;
   margin: auto;
   color: navy;
+  background-color: lightblue;
 }
 
 #guess {
