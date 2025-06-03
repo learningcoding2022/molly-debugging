@@ -4,6 +4,8 @@ main {
   flex-direction: column;
   align-items: center;
   margin: auto;
+  color: navy;
+  background-color: lightblue;
 }
 
 #guess {
@@ -12,4 +14,8 @@ main {
 
 #reset {
   margin: 20px;
+}
+
+button {
+  background-color: aquamarine;
 }
